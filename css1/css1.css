@@ -1,0 +1,83 @@
+ul { list-style-type:none;}
+
+#home {margin-left: 0px;}
+
+#about {padding-left:0px; padding-right:0px;}
+
+#services {padding-left:0px; padding-right:0px;}
+
+#a3 {border-bottom-style: solid;}
+
+#s4 {border-bottom-style:solid;}
+
+li.horizontal
+{
+font-family: Georgia ;
+font-style: italic; 
+font-size: 18 px; 
+color: black; 
+background-color: #CFCFCF; 
+padding-left:20px; 
+padding-right: 20px; 
+margin-left: 2px; 
+height: 37px; 
+border-bottom-color: #6d6d6d;
+display: block; 
+border-bottom-style: solid; 
+padding-top:10px; 
+padding-bottom: 0px; 
+margin-right: 0px; 
+float:left; 
+position: relative;
+text-align:center;
+} 
+
+li.horizontal:hover 
+{ 
+font-family:Georgia; 
+font-style: italic; 
+font-size: 18px; 
+color: #8c8c8c; 
+background-color: white; 
+}
+
+#nav ul
+{
+font-family:Georgia; 
+font-style:italic; 
+font-size:14px; 
+position: relative; 
+top: 15px; 
+text-align:center;
+left: -15px; 
+color: black;
+border-bottom-color:#cfcfcf;  
+border-width: 1px; 
+visibility:hidden;
+} 
+
+li.vertical 
+{
+border-bottom-style:dotted; 
+border-width:1px; 
+width:180px; 
+border-color: #6d6d6d; 
+padding:10px;
+background-color:white; 
+border-left-style:solid;
+border-right-style: solid;
+}
+
+li.horizontal:hover li.vertical
+{visibility: visible;}
+
+
+li.horizontal:hover li.vertical:hover
+{
+color:#bd0707; 
+padding-top:5px; 
+padding-bottom:5px; 
+border-bottom-color: #cfcfcf;
+}
+
+
