@@ -1,0 +1,57 @@
+<html>
+<head>
+<link rel ="stylesheet" type ="text/css" href ="css2.css">
+</head>
+<body>
+<div id="wrap">
+<div id="div1">
+This is the header
+</div>
+
+<div id="container2">
+<div id="container1">
+
+<div class="horizontal" id="div2">
+	<p id="p21">
+	Fixed section of 250px width
+	</p>
+	<ul>
+		<li><a> Navigation link 1 </li>
+		<li><a> Navigation link 2 </li>
+		<li><a> Navigation link 3 </li>
+		<li><a> Navigation link 4 </li>
+		<li><a> Navigation link 5 </li>
+	</ul>
+<p class="para">
+The World Wide Web had a number of differences from other hypertext systems available at the time. The web required only unidirectional links rather than bidirectional ones, making it possible for someone to link to another resource without action by the owner of that resource. 
+</p>
+</div>
+
+
+
+
+
+<div class="horizontal" id="div3">
+	<p id="p31">
+	fixed section of 750px width including padding and margins
+	</p>
+<p class="para">
+The World Wide Web had a number of differences from other hypertext systems available at the time. The web required only unidirectional links rather than bidirectional ones, making it possible for someone to link to another resource without action by the owner of that resource. It also significantly reduced the difficulty of implementing web servers and browsers (in comparison to earlier systems), but in turn presented the chronic problem of link rot. Unlike predecessors such as HyperCard, the World Wide Web was non-proprietary, making it possible to develop servers and clients independently and to add extensions without licensing restrictions. 
+</p>
+<p class="para">
+On 30 April 1993, CERN announced that the World Wide Web would be free to anyone, with no fees due.[20] Coming two months after the announcement that the server implementation of the Gopher protocol was no longer free to use, this produced a rapid shift away from Gopher and towards the Web. An early popular web browser was ViolaWWW for Unix and the X Windowing System.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<div id="div4">
+<pre>
+This is the footer
+</div>
+</div>
+
+</body>
+</html>
