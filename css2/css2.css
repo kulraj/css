@@ -101,8 +101,12 @@ font-family:tahoma;
 font-size:24px;
 color:black;
 text-align:center;
+border-bottom-style:solid;
 border-bottom-width:2px;
 border-bottom-color:#0ab1ff;
 padding:30px;
 width:940px;
+border-top-style:solid;
+border-top-color:#3cff78;
+border-top-width:330px;
 }
