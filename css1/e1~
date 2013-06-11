@@ -16,7 +16,7 @@
 				<li class="vertical" id="a3"> <a> about 3  </a> </li>
 			</ul>   
 		</li>
-                <li class="horizontal" id="services"><a>Our services</a>
+                <li class="horizontal" id="services">Our services
 			<ul class="drop" id="services1">
 				<li class="vertical" id="s1"> <a> service 1 </a> </li>
 				<li class="vertical" id="s2"> <a> service 2 </a> </li>
@@ -24,8 +24,8 @@
 				<li class="vertical" id="s4"> <a> service 4 </a> </li>
 			</ul>
 		</li>
-                 <li class="horizontal" id="portfolio"><a>Our portfolio</a></li>
-	        <li class="horizontal" id="contact"><a>Contact us</a></li>
+                 <li class="horizontal" id="portfolio">Our portfolio</li>
+	        <li class="horizontal" id="contact">Contact us</li>
               </ul>
             </div>
           
