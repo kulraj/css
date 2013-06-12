@@ -207,7 +207,7 @@
 				</textarea>
 			</li>
 		</ul>		
-		&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" value="Submit" id="submit">
+		<input type="submit" value="Submit" id="submit">
 
 	</form>
 	</div>

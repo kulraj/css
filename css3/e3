@@ -48,7 +48,7 @@
 				<label > Password </label>
 			</li>		
 			<li>
-				<input type="pwd" class="pbox" id="pass"> </input>
+				<input type="password" class="pbox" id="pass"> </input>
 			</li>
 		</ul>
 		<ul>
