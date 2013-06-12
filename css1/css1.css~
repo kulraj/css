@@ -14,7 +14,7 @@ li.horizontal
 {
 font-family: Georgia ;
 font-style: italic; 
-font-size: 18 px; 
+font-size: 18px; 
 color: black; 
 background-color: #CFCFCF; 
 padding-left:20px; 
@@ -35,8 +35,7 @@ text-align:center;
 li.horizontal:hover 
 { 
 font-family:Georgia; 
-font-style: italic; 
-font-size: 18px; 
+font-style: italic;  
 color: #8c8c8c; 
 background-color: white; 
 }
