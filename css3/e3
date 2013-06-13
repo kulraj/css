@@ -9,7 +9,7 @@
 	
 	</img>
 	
-	<br><br>
+	<br><br><br>
 	Email us at:<a>sales@vinsol.com</a> &nbsp&nbsp&nbsp&nbsp   Skype: <a>vinsol</a>
 	
 	</p>
@@ -20,7 +20,7 @@
 	<div id="wrap">
 	
 
-	<p class="cen">
+	<p class="cen" id="fill">
 	Please fill the form below
 	</p>
 	
@@ -67,7 +67,7 @@
 			
 		
 		<li>
-			<label> Date of birth </label>
+			<label > Date of birth </label>
 				
 		<select name="DateOfBirth_Day">
 			<option> - DD - </option>

@@ -9,7 +9,16 @@ margin:auto;
 {
 text-align:right;
 position:relative;
+font-family:tahoma;
+font-size:13px;
 
+}
+
+#fill
+{
+font-family:tahoma;
+font-size:18px;
+color:#2c286d;
 }
 
 #submit
@@ -41,8 +50,7 @@ color:blue;
 
 hr
 {
-color:#db2927;
-height:2px;
+height:0px;
 border-top-width:2px;
 border-top-color:#db2927;
 }
