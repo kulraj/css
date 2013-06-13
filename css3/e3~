@@ -3,77 +3,72 @@
 <link rel ="stylesheet" type ="text/css" href ="css3.css">
 </head>
 	
-	<img src="http://dl.dropboxusercontent.com/u/17934144/vtapp/vinsol-logo.png">
-	</img>
-	<p id ="contact">
 	
+	<p id ="banner">
+	<img src="http://dl.dropboxusercontent.com/u/17934144/vtapp/vinsol-logo.png">
+	
+	</img>
+	
+	<br><br><br>
 	Email us at:<a>sales@vinsol.com</a> &nbsp&nbsp&nbsp&nbsp   Skype: <a>vinsol</a>
 	
 	</p>
 	
+
 	<hr>
 
-	<div>
+	<div id="wrap">
 	
+
 	<p class="cen">
 	Please fill the form below
 	</p>
+	
 	<form class="cen">
 		<ul>
 			<li>	
 				<label > First name </label>
-			</li>
-			<li>	
+			
+				
 				<input type="text" class="tbox" id="fname"> </input>
 			</li>
-		</ul>
-		<ul>
+		
 			<li>			
 				<label > Last name </label>
-			</li>		
-			<li>
+			
 				<input type="text" class="tbox" id="lname"> </input>
 			</li>
-		</ul>		
-		<ul>
+		
 			<li>
 				<label > Email address </label>
-			</li>
-			<li>	
+				
 				<input type="text" class="tbox" id="mail"> </input>
 			</li>
-		</ul>
-		<ul>
+		
 			<li>
 				<label > Password </label>
-			</li>		
-			<li>
-				<input type="pwd" class="pbox" id="pass"> </input>
+		
+				<input type="password" class="pbox" id="pass"> </input>
 			</li>
-		</ul>
-		<ul>
+		
 			<li>
 				<label > Gender </label>
-			</li>
-			<li>
-				<label for="male">Male</label>
-  			</li>
-			<li>
+			
 				<input type="radio" name="sex" id="male" class="radio"value="male">
-  			</li>
-			<li>
-				<label for="female">Female</label>
-			</li>  	
-			<li>	
+				
+				<label for="male" class="lradio">Male</label>
+  			
 				<input type="radio" name="sex" class="radio"id="female" value="female">
+  			
+				<label for="female" class="lradio">Female</label>
+				
+				
 			</li>	
 			
-		</ul><br>
-		<ul>
+		
 		<li>
 			<label> Date of birth </label>
-		</li>
-		<li>		
+				
 		<select name="DateOfBirth_Day">
 			<option> - DD - </option>
 			<option value="1">1</option>
@@ -108,9 +103,7 @@
 			<option value="30">30</option>
 			<option value="31">31</option>
 		</select>
-		</li>
-
-		<li>
+		
 		<select name="DateOfBirth_Month">
 			<option> - MM - </option>
 			<option value="January">January</option>
@@ -126,9 +119,7 @@
 			<option value="November">November</option>
 			<option value="December">December</option>
 		</select>
-		</li>
-
-		<li>
+		
 		<select name="DateOfBirth_Year">
 			<option> - YY - </option>
 			<option value="2013">2013</option>
@@ -197,20 +188,20 @@
 			<option value="1950">1950</option>
 		</select>
 		</li>
-		</ul>
-		<ul>
+		
 			<li>
 				<label> Address <br> </label>
-			</li>
-			<li>
+			
 				<textarea>
 				</textarea>
+			</li><br>
+			<li>	
+				<input type="submit" value="Submit" id="submit">
 			</li>
-		</ul>		
-		<input type="submit" value="Submit" id="submit">
-
+		</ul>
 	</form>
 	</div>
+	
 		
 
 </html>

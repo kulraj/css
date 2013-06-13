@@ -1,18 +1,38 @@
-div
+#wrap
 {
-
 width:500px;
 margin:auto;
-
 }
 
 
-#contact
+#banner
 {
-float:right;
-top:2em;
+text-align:right;
 position:relative;
+
 }
+
+#submit
+{
+background-color:#dc2927;
+border-color:#a10200;
+width:130px;
+height:32px;
+text-align:center;
+font-family:tahoma;
+font-size:14px;
+color:white;
+position:relative;
+left:100%;
+
+}
+
+img
+{
+float:left;
+vertical-align:text-top;
+}
+
 
 a
 {
@@ -23,16 +43,11 @@ hr
 {
 color:#db2927;
 height:2px;
+border-top-width:2px;
+border-top-color:#db2927;
 }
 
 
-
-div p
-{
-font-family:tahoma;
-font-size:18px;
-color:#2c286d;
-}
 
 form
 {
@@ -44,7 +59,7 @@ padding-bottom: 20px;
 padding-left:30px;
 display:block;
 position:relative;
-
+height:390px;
 }
 
 
@@ -58,7 +73,7 @@ li
 display:block;
 position:relative;
 float:left;
-padding-bottom: 5px;
+padding-bottom: 10px;
 }
 
 
@@ -71,6 +86,12 @@ text-align:right;
 width:110px;
 display:block;
 padding-right:20px;
+float:left;
+}
+
+label.lradio
+{
+width:auto;
 }
 
 input
@@ -79,11 +100,13 @@ background-color:white;
 border-color:#b9b9b9;
 width:360px;
 height:25px;
+float:left;
+position:relative;
 }
 
 input.radio
 {
-width: 200px;
+width:auto;
 }
 
 select
@@ -102,17 +125,4 @@ width:360px;
 height:135px;
 }
 
-#submit
-{
-background-color:#dc2927;
-border-color:#a10200;
-width:130px;
-height:32px;
-text-align:center;
-font-family:tahoma;
-font-size:14px;
-color:white;
-left: 40%;
-position:relative;
-}
 
