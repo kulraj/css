@@ -1,0 +1,78 @@
+<html>
+<head>
+	<link rel ="stylesheet" type ="text/css" href ="test2.css">
+</head>
+<body>
+	<div id="leftcolumn">
+		<ul id="leftul">
+			<li>
+				<label class="links">link </label>
+			</li>
+			<li>	
+				<label class="links">link </label>
+			</li>
+			<li>
+				<label class="links">link </label>
+			</li>
+			<li>
+				<label class="links">link </label>
+			</li>	
+			<li>	
+				<label class="links">link </label>
+			</li>
+			<li>
+				<label class="links">link </label>
+			</li>
+			<li>			
+				<label class="links">link </label>
+			</li>
+			<li id="blank">			
+				<label >blank</label>
+			</li>
+			<li id="chic">			
+				<label id="c" >C </label>
+				<label id="hic" >HIC</label>
+			</li>
+		</ul>
+
+		<img class="insert" src="file:///home/kulraj/htm/test2/image.png"> </img>
+		<img class="insert" src="file:///home/kulraj/htm/test2/image.png"> </img>
+
+		<p id="left">
+		you can put lots of interesting stuff in the sidebar. some uses maybe text , images, background, styles or you may also leave it blank as a good view.
+		</p>
+	</div>
+
+	<div id="rightcolumn">
+		<ul id="rightul">
+			<li class="right">
+				<img src="file:///home/kulraj/css/test2/sunset.png"> </img>
+			</li>
+			<li class="right">
+				<label id="title" > PUT YOUR TITLE HERE </label>
+			</li>
+			<li class="righttext">
+				<label class="heading"> another layout so soon? i must be really very very bored anyways to say :-)</label>
+				<label class="text">
+				Text messages can be used to interact with automated systems to, for example, order products or services, or participate in contests. Advertisers and service providers use direct text marketing to message mobile phone users about promotions, payment due dates, etcetera instead of using mail, e-mail or voicemail.
+				</label>
+			</li>
+
+			<li class="righttext">
+				<label class="heading"> another layout so soon? i must be really very very bored anyways to say :-)</label>
+				<label class="text">
+				Text messages can be used to interact with automated systems to, for example, order products or services, or participate in contests. Advertisers and service providers use direct text marketing to message mobile phone users about promotions, payment due dates, etcetera instead of using mail, e-mail or voicemail.
+				</label>
+			</li>
+
+			<li class="righttext">
+				<label class="heading"> another layout so soon? i must be really very very bored anyways to say :-)</label>
+				<label class="text">
+Text messages can be used to interact with automated systems to, for example, order products or services, or participate in contests. Advertisers and service providers use direct text marketing to message mobile phone users about promotions, payment due dates, etcetera instead of using mail, e-mail or voicemail.
+				</label>
+			</li>
+
+		</ul>
+	</div>
+</body>
+</html>
